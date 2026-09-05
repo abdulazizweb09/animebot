@@ -1,0 +1,71 @@
+2026-09-02 19:54:51 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-02 19:54:51 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: users.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: admins.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: permissions.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: anime.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: episodes.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: videos.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: vip.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: payments.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: subscriptions.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: broadcasts.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: settings.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: languages.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: logs.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: analytics.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: events.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: collections.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: achievements.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: referrals.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: promo_codes.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: economy.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: schedule.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: polls.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: quizzes.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: favorites.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: history.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: watch_later.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: watchlist.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: ratings.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: comments.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: notifications.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: ai_history.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: backup.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: trash.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: categories.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: characters.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: media_gallery.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: news.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: aliases.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: search_history.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: anime_requests.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: bug_reports.json
+2026-09-02 19:54:51 | INFO     | database.json_manager | JSON fayl avtomatik yaratildi: system.json
+2026-09-02 19:54:51 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-02 19:54:51 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-02 19:54:51 | INFO     | aiogram.dispatcher | Start polling
+2026-09-02 19:54:51 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-02 19:54:52 | INFO     | services.user_service | Yangi foydalanuvchi: id=7441716386 username=abdulazizweb
+2026-09-02 19:54:52 | INFO     | aiogram.event | Update id=214782268 is handled. Duration 484 ms by bot id=8390167252
+2026-09-02 19:55:53 | INFO     | aiogram.event | Update id=214782269 is handled. Duration 1125 ms by bot id=8390167252
+2026-09-02 19:56:05 | INFO     | aiogram.event | Update id=214782270 is handled. Duration 613 ms by bot id=8390167252
+2026-09-02 19:56:08 | INFO     | aiogram.event | Update id=214782271 is handled. Duration 211 ms by bot id=8390167252
+2026-09-02 19:56:51 | INFO     | aiogram.event | Update id=214782272 is handled. Duration 819 ms by bot id=8390167252
+2026-09-02 19:56:54 | INFO     | aiogram.event | Update id=214782273 is handled. Duration 206 ms by bot id=8390167252
+2026-09-02 19:56:57 | INFO     | aiogram.event | Update id=214782274 is handled. Duration 324 ms by bot id=8390167252
+2026-09-02 19:57:02 | INFO     | aiogram.event | Update id=214782275 is handled. Duration 205 ms by bot id=8390167252
+2026-09-02 19:57:08 | INFO     | aiogram.event | Update id=214782276 is handled. Duration 1872 ms by bot id=8390167252
+2026-09-02 19:57:21 | INFO     | aiogram.event | Update id=214782277 is handled. Duration 408 ms by bot id=8390167252
+2026-09-02 19:57:39 | INFO     | aiogram.event | Update id=214782278 is handled. Duration 620 ms by bot id=8390167252
+2026-09-02 19:57:44 | ERROR    | ai.gemini_client | Gemini API xatosi: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
+2026-09-02 19:57:44 | WARNING  | services.ai_service | AI so'rovi tarixi bilan muvaffaqiyatsiz (user=7441716386), tarixsiz qayta urinilmoqda: AI javob berolmadi: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
+2026-09-02 19:57:44 | ERROR    | ai.gemini_client | Gemini API xatosi: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
+2026-09-02 19:57:44 | ERROR    | handlers.user.ai_assistant | AI xatosi: AI javob berolmadi: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
+2026-09-02 19:57:44 | INFO     | aiogram.event | Update id=214782279 is handled. Duration 1727 ms by bot id=8390167252
+2026-09-02 19:57:49 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-02 19:57:49 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-02 19:57:49 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-02 19:57:49 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-02 19:57:50 | INFO     | __main__ | Bot 179.0 soniya ishladi va to'xtadi.

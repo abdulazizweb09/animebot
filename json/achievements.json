@@ -1,0 +1,20 @@
+[
+  {
+    "id": "7438c7ba-b8f3-49ca-9bb9-c5d93af0bac9",
+    "user_id": 6234512842,
+    "badge_code": "vip_member",
+    "earned_at": "2026-09-03T05:36:48.941936+00:00"
+  },
+  {
+    "id": "efd9a055-5711-4d7f-add9-c62c66bfaf1d",
+    "user_id": 6234512842,
+    "badge_code": "ai_user",
+    "earned_at": "2026-09-03T05:52:53.403656+00:00"
+  },
+  {
+    "id": "56079bd3-19a8-41ef-af42-4704be118d0c",
+    "user_id": 7441716386,
+    "badge_code": "ai_user",
+    "earned_at": "2026-09-03T06:29:43.823099+00:00"
+  }
+]

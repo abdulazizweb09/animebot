@@ -1,0 +1,223 @@
+[
+  {
+    "id": "8395c484-3b4f-4d82-989d-01fd701e4b6f",
+    "event_type": "vip_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {
+      "plan": "1_month"
+    },
+    "timestamp": "2026-09-03T05:36:17.494940+00:00"
+  },
+  {
+    "id": "440fbbea-1e50-42ae-8164-9fc13e6af855",
+    "event_type": "ai_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T05:52:53.395103+00:00"
+  },
+  {
+    "id": "dedaa14e-c4ad-4a66-a40d-a4203c722637",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:29:43.796658+00:00"
+  },
+  {
+    "id": "27421e92-0394-4257-9aa1-2523e1218346",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:31:06.889823+00:00"
+  },
+  {
+    "id": "f7226334-e62b-4074-ae6c-b706b6591fb3",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:32:04.491177+00:00"
+  },
+  {
+    "id": "4385e0d3-e84b-44b6-8aaa-27f16d217f65",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:34:21.501271+00:00"
+  },
+  {
+    "id": "47d79aff-4bc5-43e2-be44-f1cff5fbfbe6",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:45:27.104420+00:00"
+  },
+  {
+    "id": "0cb9b1d2-5fc8-42f7-a95c-67a4c32164f5",
+    "event_type": "ai_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:46:35.117612+00:00"
+  },
+  {
+    "id": "c89a3d14-ab04-4245-a7f8-84b78c99867b",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:46:57.529253+00:00"
+  },
+  {
+    "id": "4e9a0dcf-6ee4-4ed2-97a0-373f443cb798",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-03T06:54:53.989765+00:00"
+  },
+  {
+    "id": "5d0d565d-7a00-4642-a050-3ac2b4ba4603",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T04:56:42.399974+00:00"
+  },
+  {
+    "id": "6ad1d2d3-8508-4cf4-9ef3-5bfc94c1c58c",
+    "event_type": "ai_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T04:57:02.889644+00:00"
+  },
+  {
+    "id": "e21058c7-ef32-409f-b1c1-76cf05d2493b",
+    "event_type": "ai_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T04:57:37.472126+00:00"
+  },
+  {
+    "id": "9110975f-6b26-4d04-bb80-37afd9177147",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T04:58:23.971926+00:00"
+  },
+  {
+    "id": "8dfec558-3eee-4ebf-b166-8f760acedeb5",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T04:58:52.421193+00:00"
+  },
+  {
+    "id": "8430d7ae-9a49-496c-b8a5-10cff25f5a8b",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T04:59:41.467406+00:00"
+  },
+  {
+    "id": "4f802e4c-6540-411b-9877-50fc7029fe19",
+    "event_type": "search",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {
+      "query": "One Piece",
+      "results": 0
+    },
+    "timestamp": "2026-09-05T05:22:15.869054+00:00"
+  },
+  {
+    "id": "bb0ed3da-2a23-4087-b44f-a67efaa2cba3",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:24:47.940628+00:00"
+  },
+  {
+    "id": "38561bd4-f29e-4f18-9a65-3206913b2491",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:27:10.372772+00:00"
+  },
+  {
+    "id": "7170e3da-cec7-4272-a152-e032a2c4afbb",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:35:28.224315+00:00"
+  },
+  {
+    "id": "c496a864-82c3-4013-b02e-2748d1370c2b",
+    "event_type": "ai_photo_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:37:09.635731+00:00"
+  },
+  {
+    "id": "4c327ade-4ace-43f4-9dca-44efa74c15e0",
+    "event_type": "ai_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:38:10.639283+00:00"
+  },
+  {
+    "id": "bcdbdcd3-4d16-4aee-92a0-84424089fc85",
+    "event_type": "ai_request",
+    "user_id": 6234512842,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:39:18.531099+00:00"
+  },
+  {
+    "id": "37ca79a1-0fad-4211-8c79-28cc19cddf08",
+    "event_type": "ai_audio_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:45:31.186936+00:00"
+  },
+  {
+    "id": "6fec3b5a-8ac5-46ee-81f7-ade9096867ee",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T05:46:40.387039+00:00"
+  },
+  {
+    "id": "ed3d16b1-6afa-4c59-80f1-79c886668db1",
+    "event_type": "ai_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T06:29:38.214739+00:00"
+  },
+  {
+    "id": "f4b3881b-8f36-44cb-b0a6-70383d032988",
+    "event_type": "ai_photo_request",
+    "user_id": 7441716386,
+    "anime_code": null,
+    "meta": {},
+    "timestamp": "2026-09-05T06:30:00.325823+00:00"
+  }
+]

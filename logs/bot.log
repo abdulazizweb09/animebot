@@ -1,0 +1,411 @@
+2026-09-05 09:55:48 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 09:55:48 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 09:55:48 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 09:55:49 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 09:55:49 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 09:55:49 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 09:55:49 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 09:56:00 | INFO     | aiogram.event | Update id=214782332 is handled. Duration 637 ms by bot id=8390167252
+2026-09-05 09:56:10 | INFO     | aiogram.event | Update id=214782333 is handled. Duration 184 ms by bot id=8390167252
+2026-09-05 09:56:42 | INFO     | aiogram.event | Update id=214782334 is handled. Duration 24957 ms by bot id=8390167252
+2026-09-05 09:56:48 | INFO     | aiogram.event | Update id=214782335 is not handled. Duration 20 ms by bot id=8390167252
+2026-09-05 09:56:55 | INFO     | aiogram.event | Update id=214782336 is handled. Duration 315 ms by bot id=8390167252
+2026-09-05 09:56:56 | INFO     | aiogram.event | Update id=214782337 is handled. Duration 178 ms by bot id=8390167252
+2026-09-05 09:57:02 | INFO     | aiogram.event | Update id=214782338 is handled. Duration 4271 ms by bot id=8390167252
+2026-09-05 09:57:37 | INFO     | aiogram.event | Update id=214782339 is handled. Duration 21460 ms by bot id=8390167252
+2026-09-05 09:58:23 | INFO     | aiogram.event | Update id=214782340 is handled. Duration 17051 ms by bot id=8390167252
+2026-09-05 09:58:52 | INFO     | aiogram.event | Update id=214782341 is handled. Duration 9387 ms by bot id=8390167252
+2026-09-05 09:59:41 | INFO     | aiogram.event | Update id=214782342 is handled. Duration 9662 ms by bot id=8390167252
+2026-09-05 10:01:22 | INFO     | aiogram.event | Update id=214782343 is not handled. Duration 22 ms by bot id=8390167252
+2026-09-05 10:04:16 | INFO     | aiogram.event | Update id=214782344 is not handled. Duration 24 ms by bot id=8390167252
+2026-09-05 10:04:59 | INFO     | aiogram.event | Update id=214782345 is not handled. Duration 26 ms by bot id=8390167252
+2026-09-05 10:14:34 | INFO     | aiogram.event | Update id=214782346 is not handled. Duration 23 ms by bot id=8390167252
+2026-09-05 10:17:53 | INFO     | aiogram.event | Update id=214782347 is not handled. Duration 19 ms by bot id=8390167252
+2026-09-05 10:18:05 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 10:18:05 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:18:05 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 10:18:05 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 10:18:05 | INFO     | __main__ | Bot 1337.6 soniya ishladi va to'xtadi.
+2026-09-05 10:18:08 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 10:18:08 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:18:08 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:18:08 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 10:18:08 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 10:18:08 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 10:18:08 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:18:15 | INFO     | aiogram.event | Update id=214782348 is handled. Duration 809 ms by bot id=8390167252
+2026-09-05 10:18:18 | INFO     | aiogram.event | Update id=214782349 is handled. Duration 207 ms by bot id=8390167252
+2026-09-05 10:18:33 | ERROR    | handlers.error_handler | Ushlanmagan xato (user=7441716386, update_id=214782350): 'Container' object has no attribute 'gemini_client'
+Traceback (most recent call last):
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/container_middleware.py", line 29, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/flood_middleware.py", line 48, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/user_middleware.py", line 51, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/throttling_middleware.py", line 44, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/handlers/user/ai_assistant.py", line 269, in ai_chat_photo
+    anime_name = await container.gemini_client.identify_anime_from_image(
+                       ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Container' object has no attribute 'gemini_client'
+2026-09-05 10:18:34 | INFO     | aiogram.event | Update id=214782350 is handled. Duration 1329 ms by bot id=8390167252
+2026-09-05 10:19:44 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 10:19:44 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:19:44 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 10:19:44 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 10:19:44 | INFO     | __main__ | Bot 96.8 soniya ishladi va to'xtadi.
+2026-09-05 10:21:27 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 10:21:27 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:21:27 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:21:28 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 10:21:28 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 10:21:28 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 10:21:28 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:22:16 | INFO     | aiogram.event | Update id=214782351 is handled. Duration 28465 ms by bot id=8390167252
+2026-09-05 10:24:00 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 10:24:00 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:24:00 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 10:24:00 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 10:24:00 | INFO     | __main__ | Bot 152.7 soniya ishladi va to'xtadi.
+2026-09-05 10:24:03 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 10:24:03 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:24:03 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:24:04 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 10:24:04 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 10:24:04 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 10:24:04 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:24:12 | INFO     | aiogram.event | Update id=214782352 is handled. Duration 1048 ms by bot id=8390167252
+2026-09-05 10:24:15 | INFO     | aiogram.event | Update id=214782353 is handled. Duration 204 ms by bot id=8390167252
+2026-09-05 10:24:47 | INFO     | aiogram.event | Update id=214782354 is handled. Duration 30680 ms by bot id=8390167252
+2026-09-05 10:26:12 | ERROR    | handlers.error_handler | Ushlanmagan xato (user=7441716386, update_id=214782355): 'Container' object has no attribute 'gemini_client'
+Traceback (most recent call last):
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/container_middleware.py", line 29, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/flood_middleware.py", line 48, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/user_middleware.py", line 51, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/throttling_middleware.py", line 44, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/handlers/user/ai_assistant.py", line 269, in ai_chat_photo
+    anime_name = await container.gemini_client.identify_anime_from_image(
+                       ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Container' object has no attribute 'gemini_client'
+2026-09-05 10:26:12 | INFO     | aiogram.event | Update id=214782355 is handled. Duration 2595 ms by bot id=8390167252
+2026-09-05 10:26:50 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 10:26:50 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:26:50 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 10:26:50 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 10:26:50 | INFO     | __main__ | Bot 167.1 soniya ishladi va to'xtadi.
+2026-09-05 10:26:52 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 10:26:52 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:26:52 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:26:53 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 10:26:53 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 10:26:53 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 10:26:53 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:26:57 | INFO     | aiogram.event | Update id=214782356 is handled. Duration 810 ms by bot id=8390167252
+2026-09-05 10:26:58 | INFO     | aiogram.event | Update id=214782357 is handled. Duration 297 ms by bot id=8390167252
+2026-09-05 10:27:10 | INFO     | aiogram.event | Update id=214782358 is handled. Duration 9851 ms by bot id=8390167252
+2026-09-05 10:27:18 | ERROR    | handlers.error_handler | Ushlanmagan xato (user=7441716386, update_id=214782359): 'Container' object has no attribute 'GeminiClient'
+Traceback (most recent call last):
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/container_middleware.py", line 29, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/flood_middleware.py", line 48, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/user_middleware.py", line 51, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/middlewares/throttling_middleware.py", line 44, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/handlers/user/ai_assistant.py", line 269, in ai_chat_photo
+    anime_name = await container.GeminiClient.identify_anime_from_image(
+                       ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Container' object has no attribute 'GeminiClient'
+2026-09-05 10:27:19 | INFO     | aiogram.event | Update id=214782359 is handled. Duration 1739 ms by bot id=8390167252
+2026-09-05 10:29:00 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 10:29:00 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:29:00 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 10:29:00 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 10:29:01 | INFO     | __main__ | Bot 128.5 soniya ishladi va to'xtadi.
+2026-09-05 10:34:40 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 10:34:40 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:34:40 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 10:34:41 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 10:34:41 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 10:34:41 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 10:34:41 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 10:34:54 | INFO     | aiogram.event | Update id=214782360 is handled. Duration 714 ms by bot id=8390167252
+2026-09-05 10:34:57 | INFO     | aiogram.event | Update id=214782361 is handled. Duration 165 ms by bot id=8390167252
+2026-09-05 10:35:28 | INFO     | aiogram.event | Update id=214782362 is handled. Duration 21859 ms by bot id=8390167252
+2026-09-05 10:36:12 | INFO     | aiogram.event | Update id=214782363 is handled. Duration 42057 ms by bot id=8390167252
+2026-09-05 10:37:09 | INFO     | aiogram.event | Update id=214782364 is handled. Duration 17247 ms by bot id=8390167252
+2026-09-05 10:37:41 | INFO     | aiogram.event | Update id=214782365 is handled. Duration 587 ms by bot id=8390167252
+2026-09-05 10:37:43 | INFO     | aiogram.event | Update id=214782366 is handled. Duration 183 ms by bot id=8390167252
+2026-09-05 10:38:10 | INFO     | aiogram.event | Update id=214782367 is handled. Duration 23357 ms by bot id=8390167252
+2026-09-05 10:39:18 | INFO     | aiogram.event | Update id=214782368 is handled. Duration 26028 ms by bot id=8390167252
+2026-09-05 10:40:00 | INFO     | aiogram.event | Update id=214782369 is handled. Duration 33783 ms by bot id=8390167252
+2026-09-05 10:45:31 | INFO     | aiogram.event | Update id=214782370 is handled. Duration 20383 ms by bot id=8390167252
+2026-09-05 10:46:40 | INFO     | aiogram.event | Update id=214782371 is handled. Duration 26129 ms by bot id=8390167252
+2026-09-05 11:13:01 | INFO     | aiogram.event | Update id=214782372 is not handled. Duration 34 ms by bot id=8390167252
+2026-09-05 11:28:46 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 11:28:46 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 11:28:46 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 11:28:46 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 11:28:46 | INFO     | __main__ | Bot 3246.3 soniya ishladi va to'xtadi.
+2026-09-05 11:28:49 | INFO     | __main__ | Sozlamalar muvaffaqiyatli yuklandi.
+2026-09-05 11:28:49 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 11:28:49 | INFO     | database.json_manager | JsonManager ishga tushdi. base_dir=/home/abdulaziz/code/beckend/amaliyot/anime_bot/cloude_last/json
+2026-09-05 11:28:49 | INFO     | __main__ | Bot ishga tushdi: @animelarmaskani_bot (id=8390167252). Asosiy adminlar: [7441716386]
+2026-09-05 11:28:49 | INFO     | __main__ | Fon vazifalari ishga tushirildi: VIP watcher, avto-backup.
+2026-09-05 11:28:49 | INFO     | aiogram.dispatcher | Start polling
+2026-09-05 11:28:50 | INFO     | aiogram.dispatcher | Run polling for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 11:29:22 | INFO     | aiogram.event | Update id=214782373 is handled. Duration 817 ms by bot id=8390167252
+2026-09-05 11:29:30 | INFO     | aiogram.event | Update id=214782374 is handled. Duration 192 ms by bot id=8390167252
+2026-09-05 11:29:38 | INFO     | aiogram.event | Update id=214782375 is handled. Duration 5754 ms by bot id=8390167252
+2026-09-05 11:30:00 | INFO     | aiogram.event | Update id=214782376 is handled. Duration 8646 ms by bot id=8390167252
+2026-09-05 11:36:32 | WARNING  | aiogram.dispatcher | Received SIGINT signal
+2026-09-05 11:36:32 | INFO     | aiogram.dispatcher | Polling stopped for bot @animelarmaskani_bot id=8390167252 - 'anime'
+2026-09-05 11:36:32 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-05 11:36:32 | INFO     | __main__ | Bot to'xtatilmoqda...
+2026-09-05 11:36:32 | INFO     | __main__ | Bot 463.3 soniya ishladi va to'xtadi.

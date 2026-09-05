@@ -1,0 +1,17 @@
+[
+  {
+    "id": "08d3e504-b0d9-44b3-a729-8772c92c93af",
+    "user_id": 6234512842,
+    "plan": "1_month",
+    "status": "approved",
+    "price": 25000,
+    "receipt_file_id": "AgACAgIAAxkBAAICC2qZB1E0Y_nYmL97WpzvWVFRfexSAAIvHWsbNALJSAPxrF82dkIgAQADAgADeQADPQQ",
+    "requested_at": "2026-09-03T05:36:17.212984+00:00",
+    "decided_at": "2026-09-03T05:36:48.937957+00:00",
+    "decided_by": 7441716386,
+    "reject_reason": null,
+    "starts_at": "2026-09-03T05:36:48.937957+00:00",
+    "expires_at": "2026-10-03T05:36:48.937957+00:00",
+    "warned_days": []
+  }
+]
